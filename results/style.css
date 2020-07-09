@@ -1,0 +1,36 @@
+div {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(152, 0, 0);
+    color: white;
+}
+
+td {
+    border-bottom: 1px solid rgb(204, 204, 204);
+    border-right: 1px solid rgb(204, 204, 204);
+    border-left: 1px solid rgb(204, 204, 204);
+}
+
+.th_role {
+    width: 150px;
+    border-left: 1px solid rgb(152, 0, 0);
+    border-right: 1px solid white;
+}
+
+.th_person {
+    width:100px;
+    border-right: 1px solid rgb(152, 0, 0);
+    border-left: 1px solid white;
+}
+
+.td_person {
+    text-align: center;
+}
