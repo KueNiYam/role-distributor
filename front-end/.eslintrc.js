@@ -4,6 +4,7 @@ module.exports = {
         "es2020": true
     },
     "extends": [
+        "plugin:prettier/recommended",
         "eslint:recommended",
         "plugin:react/recommended"
     ],
